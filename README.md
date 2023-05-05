@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shunyang, a computational scientist@[Brightseed](https://www.brightseedbio.com/)!
-My research interests include metabolomics, cheminformatics and quantum chemistry.
-Please check my personal 🕸️[website](https://shunyangwang.com/) 🔭
+## My research interests include metabolomics, cheminformatics and quantum chemistry.
+# Please check my personal 🕸️[website](https://shunyangwang.com/) 🔭
 
 <!--
 **Shunyang2018/Shunyang2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
